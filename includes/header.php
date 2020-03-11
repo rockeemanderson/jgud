@@ -31,13 +31,17 @@
 </head>
 
 <!-- Navigation -->
-<nav class="navbar navbar-light bg-light static-top">
+
+
+
+
+<!--<nav class="navbar navbar-light bg-light static-top">-->
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
     <div class="container">
       <a class="navbar-brand" href="index.php">Welcome to the Jus Guh Up Deh web page!</a>
       <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
       <a class="nav-link" href="about-us.php">About Us<span class="sr-only">(current)</span></a>
       <a class="nav-link" href="cantact-us.php">Contact Us<span class="sr-only">(current)</span></a>
-
           
     </div>
   </nav>
